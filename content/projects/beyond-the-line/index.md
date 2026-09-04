@@ -7,11 +7,11 @@ featured: true
 ---
 
 <div class="flex flex-wrap gap-2 mb-6">
-  {{< button href="https://github.com/giulio-arecco/oltre-il-confine" target="_blank" >}}
+  {{< button href="https://github.com/giulio-arecco/beyond-the-line" target="_blank" >}}
     {{< icon "github" >}} View Source Code
   {{< /button >}}
 
-  {{< button href="https://giulio-arecco.itch.io/oltre-il-confine" target="_blank" >}}
+  {{< button href="https://giulio-arecco.itch.io/beyond-the-line" target="_blank" >}}
     {{< icon "itch-io" >}} Play on Itch.io
   {{< /button >}}
 </div>
