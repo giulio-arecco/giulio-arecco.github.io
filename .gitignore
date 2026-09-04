@@ -1,0 +1,8 @@
+# Hugo output and caching
+/public/
+/resources/
+.hugo_build.lock
+
+# OS generated files (Recommended)
+.DS_Store
+Thumbs.db
