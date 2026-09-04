@@ -1,7 +1,7 @@
 # -- Main Menu --
 # The main menu is displayed in the header at the top of the page.
 # Acceptable parameters are name, pageRef, page, url, title, weight.
-# 
+#
 # The simplest menu configuration is to provide:
 #   name = The name to be displayed for this menu link
 #   pageRef = The identifier of the page or section to link to
@@ -52,18 +52,42 @@
 #  pageRef = "tags"
 #  weight = 30
 
+[[main]]
+  name = "All Projects"
+  pageRef = "/projects"
+  weight = 10
+
+[[main]]
+  name = "About"
+  pageRef = "/about"
+  weight = 20
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+    name = "Contact Me"
+    url = "mailto:giulioarecco@gmail.com"
+    weight = 20
+
+[[footer]]
+    name = "GitHub"
+    url = "https://github.com/giulio-arecco"
+    weight = 20
+
+[[footer]]
+    name = "Itch.io"
+    url = "https://giulio-arecco.itch.io/"
+    weight = 30
+
+[[footer]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/myFutureLink"
+    weight = 40
 
 # [[footer]]
 #   name = "Categories"
-#   pageRef = "categories"
+#   url = "categories"
 #   weight = 20
