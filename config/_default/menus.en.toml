@@ -73,9 +73,9 @@
 
 
 [[footer]]
-    name = "Contact Me"
+    name = "giulioarecco@gmail.com"
     url = "mailto:giulioarecco@gmail.com"
-    weight = 20
+    weight = 10
 
 [[footer]]
     name = "GitHub"
