@@ -1,3 +1,8 @@
-"shortcode.recent_articles":
+shortcode.recent_articles:
   other: "Featured Projects"
 
+error:
+  404_title: "Out Of Bounds :confused:"
+  404_error: "Error 404"
+  404_description: "It seems you have wandered outside the NavMesh."
+  404_home: "Take me home"
