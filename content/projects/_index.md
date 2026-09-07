@@ -1,4 +1,4 @@
 ---
 title: "All Projects"
-description: "A complete archive of my engineering project, case studies, and tools."
+summary: "A complete archive of my engineering project, case studies, and tools."
 ---
