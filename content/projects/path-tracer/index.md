@@ -47,7 +47,7 @@ The post-processing pipeline mitigates Monte Carlo noise at low sample counts us
 
 Furthermore, the path tracer separates light transport into diffuse, specular, and emission components. This separation enables the engine to selectively bypass spatial denoising for perfectly glossy materials, preserving sharp, mirror-like reflections that would otherwise be incorrectly blurred.
 
-## Visual Results
+## Gallery
 
 ### Denoising Results
 
