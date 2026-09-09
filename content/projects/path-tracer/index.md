@@ -7,7 +7,7 @@ featured: true
 ---
 
 {{< button href="https://github.com/giulio-arecco/zig-path-tracer" target="_blank" >}}
-  {{< icon "github" >}} Source Code
+  {{< icon "github" >}} View Source Code
 {{< /button >}}
 
 This project is a CPU-based Monte Carlo path tracer built entirely in Zig. Inspired by the [*Ray Tracing in One Weekend* series](https://raytracing.github.io/), encompassing the vast majority of concepts from the first two books, the codebase deliberately shifts away from traditional C++ object-oriented patterns. Instead, it was developed from the ground up to explore the Zig programming language and implement a multi-bounce global illumination engine from scratch without relying on external dependencies.
