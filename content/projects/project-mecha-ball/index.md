@@ -3,7 +3,6 @@ title: "Project Mecha-Ball"
 date: 2025-07-14
 summary: "A 3D puzzle game developed in Unity, centered on spatial problem-solving."
 tags: ["Unity", "C#", "Game Development"]
-featured: true
 ---
 
 <div class="flex flex-wrap gap-2 mb-6">
@@ -12,14 +11,14 @@ featured: true
   {{< /button >}}
 </div>
 
-*Project Mecha-Ball* is a 3D tactical puzzle game built in Unity, designed around simulated AI training scenarios and spatial problem-solving[cite: 2]. Developed as a collaborative group project for the "Game Design" exam at Politecnico di Torino.
+*Project Mecha-Ball* is a 3D tactical puzzle game built in Unity, designed around simulated AI training scenarios and spatial problem-solving. Developed as a collaborative group project for the "Game Design" exam at Politecnico di Torino.
 
 **Project Overview:**
 *   **Role:** Game Programmer, Technical Game Designer (Team of 6).
-*   **Context:** Academic collaborative project - Politecnico di Torino.
-*   **Responsibilities:** Execution architecture, custom tooling, serialization improvements, teleport implementation, platforms and buttons mechanics.
+*   **Context:** Collaborative Game Design and Development Project.
+*   **Responsibilities:** Game concept and design, execution architecture, custom tooling, serialization improvements, teleport implementation, platforms and buttons mechanics.
 
-## Contributions Overview
+## Contribution Overview
 
 *   **Execution Architecture:** a custom polling system utilizing the Observer pattern to manage the execution order of game state updates reliably.
 *   **Trigger Optimization:** procedural bounding-box generation tools and zero-allocation overlap querying systems to bypass the standard need for `Rigidbody` components on kinematic triggers.
