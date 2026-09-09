@@ -61,7 +61,7 @@ Furthermore, the path tracer separates light transport into diffuse, specular, a
 {{< gallery >}}
   <img src="img/path-tracer/CornellBox.jpg" alt="Cornell Box Render" class="grid-w33" />
   <img src="img/path-tracer/Final.jpg" alt="Final Scene Render" class="grid-w33" />
-  <img src="img/path-tracer/ProceduralSpheres.jpg" alt="Spheres Scene Render" class="grid-w33" />
+  <img src="img/path-tracer/ProceduralSpheres.jpg" alt="Spheres Scene Render" class="grid-w66" />
 {{< /gallery >}}
 
 ## Key Takeaways
