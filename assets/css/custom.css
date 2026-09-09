@@ -1,7 +1,11 @@
 body {
-    background-image: url('/bg_low_poly.svg');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
+background-image: url('/bg_low_poly_light.svg') !important;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+html.dark body {
+  background-image: url('/bg_low_poly_dark.svg') !important;
 }
