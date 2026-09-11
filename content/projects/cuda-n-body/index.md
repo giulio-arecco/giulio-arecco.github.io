@@ -36,3 +36,6 @@ Because floating-point addition is non-associative, varying warp execution order
 
 ### Hardware Diagnostics and Launch Validation
 Arbitrary thread block configurations and shared memory allocations risk exceeding device limits, causing runtime launch failures (`cudaErrorLaunchOutOfResources`). To prevent this, a diagnostic module queries the GPU's hardware properties (including register availability, shared memory capacity per SM, and maximum grid dimensions) via the CUDA Runtime API. A pre-flight validation check evaluates kernel requirements against these physical limits before launch, throwing explicit exceptions if resource budgets are exceeded. Additionally, the execution pipeline separates computational benchmarking from display rendering, enabling headless execution to measure raw kernel throughput without display synchronization constraints.
+
+### Visual Demo
+{{< video src="/cuda_n_body_visual_demo.mp4" >}}
