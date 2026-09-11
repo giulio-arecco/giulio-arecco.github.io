@@ -15,7 +15,7 @@ featured: true
   {{< /button >}}
 </div>
 
-This project implements a demand-paged virtual memory subsystem within the OS/161 operating system kernel. It replaces the default static memory allocator, enabling the execution of user programs whose memory footprint exceeds available physical RAM.
+This project implements a demand-paging virtual memory subsystem within the OS/161 operating system kernel. It replaces the default static memory allocator, enabling the execution of user programs whose memory footprint exceeds available physical RAM.
 
 **Project Overview:**
 *   **Role:** Kernel Developer (Team of 2).
