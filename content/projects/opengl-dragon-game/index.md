@@ -9,7 +9,12 @@ tags: ["C++", "Game Development", "Computer Graphics"]
   {{< button href="https://github.com/LienoPC/Dragon--2D-Scroller-Game" target="_blank" >}}
     {{< icon "github" >}} View Source Code
   {{< /button >}}
+
+  {{< button href="https://www.youtube.com/watch?v=oxvbj1901CQ" target="_blank" >}}
+    {{< icon "github" >}} Gameplay Demo
+  {{< /button >}}
 </div>
+
 
 *Dragòn* is a 2D scrolling arcade game developed in C++ using OpenGL, GLFW, and GLM. Developed as a collaborative team project, the game combines 2D sprite rendering, keyboard navigation, projectile dodging, and stage progression.
 
