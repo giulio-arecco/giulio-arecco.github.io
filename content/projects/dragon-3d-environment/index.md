@@ -12,7 +12,7 @@ This project is a 3D environment set inside a gothic cathedral, created in Blend
 * **Role:** 3D Artist (Team of 3).
 * **Context:** 3D Environment Art / Offline Rendering.
 * **Tools Used:** Blender, Cycles Render Engine.
-* **Core Responsibilities:** Procedural modeling via Geometry Nodes, prop modeling, procedural shading, scene lighting.
+* **Responsibilities:** Procedural modeling via Geometry Nodes, prop modeling, procedural shading, scene lighting.
 
 ## Contribution Overview
 
