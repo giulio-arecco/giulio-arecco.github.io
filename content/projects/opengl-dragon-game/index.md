@@ -1,5 +1,5 @@
 ---
-title: "Dragòn - OpenGL 2D Arcade Game"
+title: "Dragòn - 2D OpenGL Arcade Game"
 date: 2024-03-05
 summary: "A 2D scrolling arcade game built in C++ and OpenGL, featuring collectible power-ups, health and mana management, and unlockable levels with escalating difficulty."
 tags: ["C++", "Game Development", "Computer Graphics"]
