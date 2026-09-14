@@ -18,9 +18,9 @@ tags: ["Unity", "C#", "Game Development"]
 *The Plague in Milan* is a first-person 3D interactive narrative experience built in Unity, recreating the historical and social environment of 17th-century Milan during the plague epidemic described in Alessandro Manzoni's *The Betrothed*. It was developed as a collaborative project.
 
 **Project Overview:**
-*   **Role:** Programmer, System Designer (Team of 4).
+*   **Role:** Game Programmer, System Designer (Team of 4).
 *   **Context:** Virtual Reality Project.
-*   **Core Responsibilities:** Character and camera physics synchronization, input normalization, narrative progression architecture, spatial NPC interaction systems.
+*   **Responsibilities:** Character and camera physics synchronization, input normalization, narrative progression architecture, spatial NPC interaction systems.
 
 ## Contribution Overview
 
