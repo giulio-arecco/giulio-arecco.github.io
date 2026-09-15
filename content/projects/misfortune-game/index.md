@@ -6,7 +6,7 @@ tags: ["JavaScript", "Web Development"]
 ---
 
 <div class="flex flex-wrap gap-2 mb-6">
-  {{< button href="https://github.com/giulio-arecco/misfortune-game#client-side-routing-and-navigation-guards" target="_blank" >}}
+  {{< button href="https://github.com/giulio-arecco/misfortune-game" target="_blank" >}}
     {{< icon "github" >}} View Source Code
   {{< /button >}}
 </div>

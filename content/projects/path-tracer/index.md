@@ -1,5 +1,5 @@
 ---
-title: "Zig Path Tracer"
+title: "Path Tracer"
 date: 2026-06-10
 summary: "A CPU-based Monte Carlo path tracer written in Zig, featuring multi-bounce global illumination, BVH acceleration, and custom spatial denoisers."
 tags: ["Zig", "Computer Graphics", "Systems Programming"]
