@@ -1,12 +1,12 @@
 ---
 title: "About Me"
 date: 2026-09-16
-summary: "Giulio Arecco — Computer Engineer & Game Developer."
+summary: "Giulio Arecco — Computer Engineer and Game Programmer."
 showTableOfContents: false
 showDate: false
 ---
 
-I am a **Computer Engineer and Game Developer** with a Master’s degree from Politecnico di Torino, specialized in Graphics and Multimedia.
+I am a **Computer Engineer and Game Programmer** with a Master’s degree from Politecnico di Torino, specialized in Graphics and Multimedia.
 My work centers on gameplay architecture, internal tooling, and core subsystems. I build software structured around clear module boundaries, efficient data flows, and predictable runtime performance.
 
 ## Technical Profile
