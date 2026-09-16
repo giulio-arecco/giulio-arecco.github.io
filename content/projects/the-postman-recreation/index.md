@@ -3,6 +3,7 @@ title: "The Postman: 3D Animation Recreation"
 date: 2024-07-16
 summary: "A 3D character animation project in Blender reproducing Renault's \"The Postman\" commercial, focusing on keyframe animation, shot staging, and timing."
 tags: ["Animation", "3D Modeling", "Computer Graphics"]
+showTableOfContents: false
 ---
 
 <div class="flex flex-wrap gap-2 mb-6">

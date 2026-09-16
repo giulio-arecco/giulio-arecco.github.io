@@ -3,6 +3,7 @@ title: "Dragòn - 3D Environment"
 date: 2024-02-25
 summary: "A 3D cathedral environment modeled in Blender and rendered in Cycles, featuring procedural geometry nodes, custom props, and physically-based materials."
 tags: ["Computer Graphics", "3D Modeling", "Animation",]
+showTableOfContents: false
 ---
 
 This project is a 3D environment set inside a gothic cathedral, created in Blender and rendered using the Cycles engine. Developed as complementary visual art for the [Dragòn - 2D OpenGL Arcade Game](projects/opengl-dragon-game) project, the scene showcases fantasy props, procedural asset modeling, and atmospheric lighting.
