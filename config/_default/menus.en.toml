@@ -59,8 +59,10 @@
 
 [[main]]
   name = "CV"
-  url = "/CV_Giulio_Arecco.pdf"
+  url = "/cv_giulio_arecco.pdf"
   weight = 20
+  [main.params]
+    external = true
 
 [[main]]
   name = "About Me"
