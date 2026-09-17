@@ -59,7 +59,7 @@
 
 [[main]]
   name = "CV"
-  url = "/test_cv.pdf"
+  url = "/CV_Giulio_Arecco.pdf"
   weight = 20
 
 [[main]]
@@ -89,7 +89,7 @@
 
 [[footer]]
     name = "LinkedIn"
-    url = "https://www.linkedin.com/myFutureLink"
+    url = "https://www.linkedin.com/in/giulio-arecco"
     weight = 40
 
 # [[footer]]
