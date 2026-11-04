@@ -3,7 +3,6 @@ title: "OS/161 Demand Paging"
 date: 2024-09-13
 summary: "An OS/161 kernel extension implementing demand paging, swap space management, per-process page tables, dynamic ELF loading, and TLB handling."
 tags: ["C", "Systems Programming"]
-featured: true
 ---
 
 <!-- Enable math formatting -->
