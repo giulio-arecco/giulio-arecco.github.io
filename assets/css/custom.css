@@ -1,11 +1,41 @@
 body {
-background-image: url('/bg_low_poly_light.svg') !important;
+  position: relative;
+  isolation: isolate;
+  background-color: #e4f1ff !important;
+  background-image: none !important;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  background: url('/lavalamp.svg?v=2');
   background-size: cover;
   background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
+  opacity: 0.175;
+  pointer-events: none;
 }
 
 html.dark body {
-  background-image: url('/bg_low_poly_dark.svg') !important;
+  background-color: #09131d !important;
+}
+
+html.dark body::before {
+  opacity: 0.05;
+}
+
+body > * {
+  position: relative;
+  z-index: 1;
+}
+
+body > header {
+  z-index: 100;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .homepage-animation {
+    display: none;
+  }
 }
