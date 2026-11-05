@@ -14,7 +14,7 @@ featured: true
 
 This project features a third-person Action RPG architecture developed in Unreal Engine 5.6 with C++ and Blueprint visual scripting. It combines melee combat, directional hit reactions, state-driven character behavior, enemy AI, procedural foot placement, attribute-based UI, interactive pickups, and destructible props.
 
-The project follows the curriculum presented in Stephen Ulibarri's [Unreal Engine 5 - The Ultimate Game Developer Course](https://www.udemy.com/course/unreal-engine-5-the-ultimate-game-developer-course/). Alongside completing the course material, I used the implementation to study the underlying topics in more depth and expand selected mechanics, including combat state handling, enemy AI behavior, dodging attacks, and stamina management.
+The project follows the curriculum presented in Stephen Ulibarri's [Unreal Engine 5 C++ The Ultimate Game Developer Course](https://www.udemy.com/course/unreal-engine-5-the-ultimate-game-developer-course/). Alongside completing the course material, I used the implementation to study the underlying topics in more depth and expand selected mechanics, including combat state handling, enemy AI behavior, dodging attacks, and stamina management.
 
 ## Tech Stack
 
